@@ -5,6 +5,6 @@
 </a>
 
 ### Solved.ac Tier
-<p align="center">
-  <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=ropeiny&cache=c">
+<p>
+  <img src="http://mazassumnida.wtf/api/v2/pastel/generate_badge?boj=ropeiny&cache=c">
 </p>
